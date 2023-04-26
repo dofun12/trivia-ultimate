@@ -1,0 +1,97 @@
+{
+  "quiz": {
+    "perguntas": [
+      {
+        "pergunta": "Qual é o nome da deusa grega da sabedoria e da guerra estratégica?",
+        "alternativas": [
+          "Hera",
+          "Atena",
+          "Afrodite",
+          "Deméter"
+        ],
+        "resposta": "Atena"
+      },
+      {
+        "pergunta": "Na mitologia romana, qual é o nome do deus do mar?",
+        "alternativas": [
+          "Júpiter",
+          "Marte",
+          "Netuno",
+          "Plutão"
+        ],
+        "resposta": "Netuno"
+      },
+      {
+        "pergunta": "Qual é o nome do herói da mitologia grega que derrotou a Medusa?",
+        "alternativas": [
+          "Perseu",
+          "Teseu",
+          "Hércules",
+          "Orfeu"
+        ],
+        "resposta": "Perseu"
+      },
+      {
+        "pergunta": "Qual é o nome do cavalo de Tróia, que foi usado pelos gregos para invadir a cidade de Tróia?",
+        "alternativas": [
+          "Bucéfalo",
+          "Pégaso",
+          "Cérbero",
+          "Idade"
+        ],
+        "resposta": "Idade"
+      },
+      {
+        "pergunta": "Na mitologia egípcia, qual é o nome da deusa da morte e do submundo?",
+        "alternativas": [
+          "Bastet",
+          "Hathor",
+          "Ísis",
+          "Mafdet"
+        ],
+        "resposta": "Ísis"
+      },
+      {
+        "pergunta": "Qual é o nome do rei lendário da Inglaterra que supostamente retirou a espada da pedra?",
+        "alternativas": [
+          "Artur",
+          "Alfredo",
+          "Eduardo",
+          "Henrique"
+        ],
+        "resposta": "Artur"
+      },
+      {
+        "pergunta": "Qual é o nome da criatura lendária que é metade homem, metade cavalo?",
+        "alternativas": [
+          "Sátiro",
+          "Centauro",
+          "Fauno",
+          "Minotauro"
+        ],
+        "resposta": "Centauro"
+      },
+      {
+        "pergunta": "Na mitologia nórdica, qual é o nome do deus da guerra, da poesia e da sabedoria?",
+        "alternativas": [
+          "Thor",
+          "Odin",
+          "Loki",
+          "Balder"
+        ],
+        "resposta": "Odin"
+      },
+      {
+        "pergunta": "Qual é o nome do monstro marinho da mitologia grega que tinha a cabeça de um touro e o corpo de um homem?",
+        "alternativas": [
+          "Quimera",
+          "Hidra",
+          "Cérbero",
+          "Minotauro"
+        ],
+        "resposta": "Minotauro"
+      }
+    ]
+  }
+}
+
